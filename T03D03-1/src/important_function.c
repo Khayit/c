@@ -1,5 +1,5 @@
-#include <math.h>
 #include <stdio.h>
+#include <math.h>
 
 double calculate_function(double x) {
     if (!isfinite(x)) {
